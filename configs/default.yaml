@@ -1,0 +1,19 @@
+window:
+  frames: 100          # длина окна (T)
+  hop: 25              # шаг окна
+  min_conf: 0.20       # фильтр уверенности точек
+
+model:
+  in_channels: 2       # (x,y)
+  embed_dim: 256
+  head_dim: 128
+  gcn_channels: [64, 128, 256]   # ширины блоков
+  kernel_t: 9
+  dropout: 0.1
+
+train:
+  batch_size: 64
+  epochs: 15
+  lr: 1e-3
+  margin: 0.2          # для triplet loss
+  num_workers: 4
