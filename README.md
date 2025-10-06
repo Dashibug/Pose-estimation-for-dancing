@@ -32,9 +32,7 @@
                                │
                                ▼
                 ┌──────────────────────────────┐
-                │ <img width="373" height="87" alt="image" src="https://github.com/user-attachments/assets/e579178c-d3bf-4182-bd11-2a92af0dc6f8" />
-                │                              │
-                │ exp(-‖Δembeddings‖) ∈ [0,1]  │
+                │          Similarity          │
                 └──────────────────────────────┘
                                ▲
                                │
