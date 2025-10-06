@@ -10,9 +10,9 @@
 **DancePose** анализирует позы из видео и камеры в реальном времени, вычисляя степень похожести между вашим движением и эталоном.
 
 <div align="center">
-  <img src="https://github.com/yourusername/DancePose/assets/demo.gif" width="700"/>
+  <img src="file:///Users/dashitsybikzhapov/Downloads/gtipasd.gif" width="700"/>
   <br>
-  <em>Left: Reference dance | Right: Your movement in real-time</em>
+  <em>Left: Your movement in real-time | Right: Reference dance</em>
 </div>
 
 ---
